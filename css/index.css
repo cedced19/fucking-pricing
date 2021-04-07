@@ -1,0 +1,12 @@
+.btn-primary:hover {
+    background-color: green;
+}
+
+.col-sm {
+    margin-top: 30px;
+}
+
+h1 {
+    font-size: 1.7rem;
+    color: #949292;
+}
