@@ -28,7 +28,7 @@
         while (i < 500) {
             jeh_potentiel = n_phase / i
             test_jeh_potentiel = n_phase % i
-            if (test_jeh_potentiel == 0 && jeh_potentiel >= 80 && jeh_potentiel <= 400) {
+            if (test_jeh_potentiel == 0 && jeh_potentiel >= 80 && jeh_potentiel <= 450) {
                 result += 'Nombre de JEH : <br>';
                 result += i + '<br>';
                 result += 'Prix unitaire de la JEH<br>';
